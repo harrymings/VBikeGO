@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab_6</string>
+    <string name="title_activity_maps">Privacy Protection</string>
+    <string name="option_get_place">Get place</string>
+    <string name="menu.map_options">menu.map_options</string>
+
+</resources>
